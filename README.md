@@ -243,4 +243,4 @@ Fortuny-Amat and McCarl developed the classical route of replacing a lower-level
 
 ## License
 
-MIT License.
+This repository is licensed under the **JORS Academy Non-Commercial Source License 1.0**. Commercial use is prohibited without a separate prior written commercial license. See [`LICENSE`](LICENSE) for the complete terms.
